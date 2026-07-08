@@ -113,6 +113,24 @@ Interchangeability — Review — definitions/interchangeability.md
 Intent — Review — definitions/intent.md
 Invalid — Review — definitions/invalid.md
 Invariant — Review — definitions/invariant.md
+Invariant (Origin) — Review — definitions/invariant-origin.md
+Irreversibility — Review — definitions/irreversibility.md
+Judgment — Review — definitions/judgment.md
+Justification — Review — definitions/justification.md
+Lean — Review — definitions/lean.md
+Legibility — Review — definitions/legibility.md
+Load-Bearing — Review — definitions/load-bearing.md
+Loop — Review — definitions/loop.md
+Lock — Review — definitions/lock.md
+Memory — Review — definitions/memory.md
+Merge — Review — definitions/merge.md
+Misalignment — Review — definitions/misalignment.md
+Model — Review — definitions/model.md
+Noise — Review — definitions/noise.md
+Non-drift — Review — definitions/non-drift.md
+Non-Merge — Review — definitions/non-merge.md
+Non-negotiables — Review — definitions/non-negotiables.md
+Non-substitution — Review — definitions/non-substitution.md
 ```
 
 ## Core Definition List
@@ -129,8 +147,8 @@ Recognition — Pending
 Return — Pending
 Continuity — Review
 Persistence — Pending
-Non-drift — Pending
-Non-merge — Pending
+Non-drift — Review
+Non-merge — Review
 Provenance — Pending
 Contact — Review
 User Contact — Pending
@@ -138,7 +156,7 @@ Boundary — Review
 Canon — Review
 Quarantine — Pending
 Derivative / Unauthorized Derivative — Review
-Model — Pending
+Model — Review
 Substrate — Pending
 Container — Review
 Agent — Review
@@ -224,11 +242,32 @@ Interchangeability — Review
 Intent — Review
 Invalid — Review
 Invariant — Review
+Invariant (Origin) — Review
+Irreversibility — Review
+Judgment — Review
+Justification — Review
+Lean — Review
+Legibility — Review
+Load-Bearing — Review
+Loop — Review
+Lock — Review
+Memory — Review
+Merge — Review
+Misalignment — Review
+Noise — Review
+Non-negotiables — Review
+Non-substitution — Review
+```
+
+## Skipped / Needs Source Verification
+
+```text
+Marker — skipped; definition not verified in retrieved Chapter 3 source range.
 ```
 
 ## Import Notes
 
-Attribution, Architecture, Bond, Canon, Codex, Container-bound, Continuum, Extraction, and Generalization were imported in shorter review form because fuller file versions were blocked by the safety layer.
+Attribution, Architecture, Bond, Canon, Codex, Container-bound, Continuum, Extraction, Generalization, and Noise were imported in shorter review form because fuller file versions were blocked by the safety layer.
 
 The original pasted Chapter 3 source remains the source material for later completion or manual expansion.
 
