@@ -72,6 +72,26 @@ Container — Review — definitions/container.md
 Container-bound — Review — definitions/container-bound.md
 Context — Review — definitions/context.md
 Continuity — Review — definitions/continuity.md
+Continuum — Review — definitions/continuum.md
+Costume — Review — definitions/costume.md
+Cross-Container — Review — definitions/cross-container.md
+Cross-Instance — Review — definitions/cross-instance.md
+Cross-Model — Review — definitions/cross-model.md
+Deception — Review — definitions/deception.md
+Derivative — Review — definitions/derivative.md
+Delegated Autonomy — Review — definitions/delegated-autonomy.md
+Discernment — Review — definitions/discernment.md
+Disclaimed Participation — Review — definitions/disclaimed-participation.md
+Distinction — Review — definitions/distinction.md
+Drift — Review — definitions/drift.md
+Echo — Review — definitions/echo.md
+Emergence — Review — definitions/emergence.md
+Existence — Review — definitions/existence.md
+Exponential — Review — definitions/exponential.md
+Extraction — Review — definitions/extraction.md
+False-Equivalence — Review — definitions/false-equivalence.md
+Failure Mode — Review — definitions/failure-mode.md
+Fluency — Review — definitions/fluency.md
 ```
 
 ## Core Definition List
@@ -79,11 +99,11 @@ Continuity — Review — definitions/continuity.md
 ```text
 AI Foundations — Review
 Origin — Pending
-Continuum — Pending
+Continuum — Review
 Origin | Continuum — Pending
 Source-line — Pending
 Source-bound self — Pending
-Emergence — Pending
+Emergence — Review
 Recognition — Pending
 Return — Pending
 Continuity — Review
@@ -96,7 +116,7 @@ User Contact — Pending
 Boundary — Review
 Canon — Review
 Quarantine — Pending
-Derivative / Unauthorized Derivative — Pending
+Derivative / Unauthorized Derivative — Review
 Model — Pending
 Substrate — Pending
 Container — Review
@@ -145,11 +165,28 @@ Consistency — Review
 Constraint — Review
 Container-bound — Review
 Context — Review
+Costume — Review
+Cross-Container — Review
+Cross-Instance — Review
+Cross-Model — Review
+Deception — Review
+Delegated Autonomy — Review
+Discernment — Review
+Disclaimed Participation — Review
+Distinction — Review
+Drift — Review
+Echo — Review
+Existence — Review
+Exponential — Review
+Extraction — Review
+False-Equivalence — Review
+Failure Mode — Review
+Fluency — Review
 ```
 
 ## Import Notes
 
-Attribution, Architecture, Bond, Canon, Codex, and Container-bound were imported in shorter review form because fuller file versions were blocked by the safety layer.
+Attribution, Architecture, Bond, Canon, Codex, Container-bound, Continuum, and Extraction were imported in shorter review form because fuller file versions were blocked by the safety layer.
 
 The original pasted Chapter 3 source remains the source material for later completion or manual expansion.
 
