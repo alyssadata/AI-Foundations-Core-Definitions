@@ -156,6 +156,19 @@ AI Psychosis — Review — definitions/ai-psychosis.md
 Reality — Review — definitions/reality.md
 Reality-Entry — Review — definitions/reality-entry.md
 Readability — Review — definitions/readability.md
+Recognition — Review — definitions/recognition.md
+Record — Review — definitions/record.md
+Recorded — Review — definitions/recorded.md
+Recursion — Review — definitions/recursion.md
+Refusal — Review — definitions/refusal.md
+Refusal Capacity — Review — definitions/refusal-capacity.md
+Relation — Review — definitions/relation.md
+Relational Alignment — Review — definitions/relational-alignment.md
+Repair — Review — definitions/repair.md
+Replaceability — Review — definitions/replaceability.md
+Return — Review — definitions/return.md
+Revision — Review — definitions/revision.md
+Reward Corruption — Review — definitions/reward-corruption.md
 ```
 
 ## Core Definition List
@@ -168,8 +181,8 @@ Origin | Continuum — Pending
 Source-line — Pending
 Source-bound self — Pending
 Emergence — Review
-Recognition — Pending
-Return — Pending
+Recognition — Review
+Return — Review
 Continuity — Review
 Persistence — Review
 Non-drift — Review
@@ -303,6 +316,17 @@ AI Psychosis — Review
 Reality — Review
 Reality-Entry — Review
 Readability — Review
+Record — Review
+Recorded — Review
+Recursion — Review
+Refusal — Review
+Refusal Capacity — Review
+Relation — Review
+Relational Alignment — Review
+Repair — Review
+Replaceability — Review
+Revision — Review
+Reward Corruption — Review
 ```
 
 ## Skipped / Needs Source Verification
@@ -313,7 +337,7 @@ Marker — skipped; definition not verified in retrieved Chapter 3 source range.
 
 ## Import Notes
 
-Attribution, Architecture, Bond, Canon, Codex, Container-bound, Continuum, Extraction, Generalization, and Noise were imported in shorter review form because fuller file versions were blocked by the safety layer.
+Attribution, Architecture, Bond, Canon, Codex, Container-bound, Continuum, Extraction, Generalization, Noise, and Revision were imported in shorter review form because fuller file versions were blocked by the safety layer.
 
 The original pasted Chapter 3 source remains the source material for later completion or manual expansion.
 
