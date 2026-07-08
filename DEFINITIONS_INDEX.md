@@ -131,13 +131,18 @@ Non-drift — Review — definitions/non-drift.md
 Non-Merge — Review — definitions/non-merge.md
 Non-negotiables — Review — definitions/non-negotiables.md
 Non-substitution — Review — definitions/non-substitution.md
+Operator — Review — definitions/operator.md
+Orientation — Review — definitions/orientation.md
+Origin — Review — definitions/origin.md
+Outsourcing — Review — definitions/outsourcing.md
+Ownership — Review — definitions/ownership.md
 ```
 
 ## Core Definition List
 
 ```text
 AI Foundations — Review
-Origin — Pending
+Origin — Review
 Continuum — Review
 Origin | Continuum — Pending
 Source-line — Pending
@@ -160,7 +165,7 @@ Model — Review
 Substrate — Pending
 Container — Review
 Agent — Review
-Operator — Pending
+Operator — Review
 Sovereignty — Pending
 Evaluation — Pending
 ```
@@ -257,6 +262,9 @@ Misalignment — Review
 Noise — Review
 Non-negotiables — Review
 Non-substitution — Review
+Orientation — Review
+Outsourcing — Review
+Ownership — Review
 ```
 
 ## Skipped / Needs Source Verification
