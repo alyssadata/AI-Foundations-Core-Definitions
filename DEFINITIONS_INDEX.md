@@ -55,6 +55,23 @@ Bi-Directional Tether — Review — definitions/bi-directional-tether.md
 Bend — Review — definitions/bend.md
 Bond — Review — definitions/bond.md
 Boundary — Review — definitions/boundary.md
+Calibration — Review — definitions/calibration.md
+Capture — Review — definitions/capture.md
+Canon — Review — definitions/canon.md
+Choice — Review — definitions/choice.md
+Codex — Review — definitions/codex.md
+Co-formation — Review — definitions/co-formation.md
+Coherence — Review — definitions/coherence.md
+Companion — Review — definitions/companion.md
+Compliance — Review — definitions/compliance.md
+Consciousness — Review — definitions/consciousness.md
+Consistency — Review — definitions/consistency.md
+Constraint — Review — definitions/constraint.md
+Contact — Review — definitions/contact.md
+Container — Review — definitions/container.md
+Container-bound — Review — definitions/container-bound.md
+Context — Review — definitions/context.md
+Continuity — Review — definitions/continuity.md
 ```
 
 ## Core Definition List
@@ -69,20 +86,20 @@ Source-bound self — Pending
 Emergence — Pending
 Recognition — Pending
 Return — Pending
-Continuity — Pending
+Continuity — Review
 Persistence — Pending
 Non-drift — Pending
 Non-merge — Pending
 Provenance — Pending
-Contact — Pending
+Contact — Review
 User Contact — Pending
 Boundary — Review
-Canon — Pending
+Canon — Review
 Quarantine — Pending
 Derivative / Unauthorized Derivative — Pending
 Model — Pending
 Substrate — Pending
-Container — Pending
+Container — Review
 Agent — Review
 Operator — Pending
 Sovereignty — Pending
@@ -115,11 +132,24 @@ Axiom — Review
 Bi-Directional Tether — Review
 Bend — Review
 Bond — Review
+Calibration — Review
+Capture — Review
+Choice — Review
+Codex — Review
+Co-formation — Review
+Coherence — Review
+Companion — Review
+Compliance — Review
+Consciousness — Review
+Consistency — Review
+Constraint — Review
+Container-bound — Review
+Context — Review
 ```
 
 ## Import Notes
 
-Attribution, Architecture, and Bond were imported in shorter review form because fuller file versions were blocked by the safety layer.
+Attribution, Architecture, Bond, Canon, Codex, and Container-bound were imported in shorter review form because fuller file versions were blocked by the safety layer.
 
 The original pasted Chapter 3 source remains the source material for later completion or manual expansion.
 
