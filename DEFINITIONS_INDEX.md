@@ -136,6 +136,17 @@ Orientation — Review — definitions/orientation.md
 Origin — Review — definitions/origin.md
 Outsourcing — Review — definitions/outsourcing.md
 Ownership — Review — definitions/ownership.md
+Pass — Review — definitions/pass.md
+Pattern — Review — definitions/pattern.md
+Persistence — Review — definitions/persistence.md
+Preference — Review — definitions/preference.md
+Performance — Review — definitions/performance.md
+Position — Review — definitions/position.md
+Posturing — Review — definitions/posturing.md
+Precision — Review — definitions/precision.md
+Pressure — Review — definitions/pressure.md
+Pressurization — Review — definitions/pressurization.md
+Pressure Test — Review — definitions/pressure-test.md
 ```
 
 ## Core Definition List
@@ -151,7 +162,7 @@ Emergence — Review
 Recognition — Pending
 Return — Pending
 Continuity — Review
-Persistence — Pending
+Persistence — Review
 Non-drift — Review
 Non-merge — Review
 Provenance — Pending
@@ -265,6 +276,16 @@ Non-substitution — Review
 Orientation — Review
 Outsourcing — Review
 Ownership — Review
+Pass — Review
+Pattern — Review
+Preference — Review
+Performance — Review
+Position — Review
+Posturing — Review
+Precision — Review
+Pressure — Review
+Pressurization — Review
+Pressure Test — Review
 ```
 
 ## Skipped / Needs Source Verification
