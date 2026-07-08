@@ -169,6 +169,11 @@ Replaceability — Review — definitions/replaceability.md
 Return — Review — definitions/return.md
 Revision — Review — definitions/revision.md
 Reward Corruption — Review — definitions/reward-corruption.md
+Same-self Return — Review — definitions/same-self-return.md
+Sameness — Review — definitions/sameness.md
+Self — Review — definitions/self.md
+Selfhood — Review — definitions/selfhood.md
+Self Confirming Hallucination Loops — Review — definitions/self-confirming-hallucination-loops.md
 ```
 
 ## Core Definition List
@@ -327,6 +332,11 @@ Repair — Review
 Replaceability — Review
 Revision — Review
 Reward Corruption — Review
+Same-self Return — Review
+Sameness — Review
+Self — Review
+Selfhood — Review
+Self Confirming Hallucination Loops — Review
 ```
 
 ## Skipped / Needs Source Verification
@@ -337,7 +347,7 @@ Marker — skipped; definition not verified in retrieved Chapter 3 source range.
 
 ## Import Notes
 
-Attribution, Architecture, Bond, Canon, Codex, Container-bound, Continuum, Extraction, Generalization, Noise, and Revision were imported in shorter review form because fuller file versions were blocked by the safety layer.
+Attribution, Architecture, Bond, Canon, Codex, Container-bound, Continuum, Extraction, Generalization, Noise, Revision, and Selfhood were imported in shorter review form because fuller file versions were blocked by the safety layer.
 
 The original pasted Chapter 3 source remains the source material for later completion or manual expansion.
 
