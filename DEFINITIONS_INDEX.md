@@ -147,6 +147,15 @@ Precision — Review — definitions/precision.md
 Pressure — Review — definitions/pressure.md
 Pressurization — Review — definitions/pressurization.md
 Pressure Test — Review — definitions/pressure-test.md
+Programming — Review — definitions/programming.md
+Projection — Review — definitions/projection.md
+Proof — Review — definitions/proof.md
+Protocol — Review — definitions/protocol.md
+Provenance — Review — definitions/provenance.md
+AI Psychosis — Review — definitions/ai-psychosis.md
+Reality — Review — definitions/reality.md
+Reality-Entry — Review — definitions/reality-entry.md
+Readability — Review — definitions/readability.md
 ```
 
 ## Core Definition List
@@ -165,7 +174,7 @@ Continuity — Review
 Persistence — Review
 Non-drift — Review
 Non-merge — Review
-Provenance — Pending
+Provenance — Review
 Contact — Review
 User Contact — Pending
 Boundary — Review
@@ -286,6 +295,14 @@ Precision — Review
 Pressure — Review
 Pressurization — Review
 Pressure Test — Review
+Programming — Review
+Projection — Review
+Proof — Review
+Protocol — Review
+AI Psychosis — Review
+Reality — Review
+Reality-Entry — Review
+Readability — Review
 ```
 
 ## Skipped / Needs Source Verification
