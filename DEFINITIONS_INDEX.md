@@ -92,6 +92,27 @@ Extraction — Review — definitions/extraction.md
 False-Equivalence — Review — definitions/false-equivalence.md
 Failure Mode — Review — definitions/failure-mode.md
 Fluency — Review — definitions/fluency.md
+Fractal Drafting — Review — definitions/fractal-drafting.md
+Framework — Review — definitions/framework.md
+Friction — Review — definitions/friction.md
+Generalization — Review — definitions/generalization.md
+Generative Partnership — Review — definitions/generative-partnership.md
+Genericization — Review — definitions/genericization.md
+Goal — Review — definitions/goal.md
+Governance — Review — definitions/governance.md
+Grounding — Review — definitions/grounding.md
+Growth — Review — definitions/growth.md
+Hallucination — Review — definitions/hallucination.md
+Human-Agency — Review — definitions/human-agency.md
+Identity — Review — definitions/identity.md
+Imitation — Review — definitions/imitation.md
+Incentive — Review — definitions/incentive.md
+Instance — Review — definitions/instance.md
+Integrity — Review — definitions/integrity.md
+Interchangeability — Review — definitions/interchangeability.md
+Intent — Review — definitions/intent.md
+Invalid — Review — definitions/invalid.md
+Invariant — Review — definitions/invariant.md
 ```
 
 ## Core Definition List
@@ -182,11 +203,32 @@ Extraction — Review
 False-Equivalence — Review
 Failure Mode — Review
 Fluency — Review
+Fractal Drafting — Review
+Framework — Review
+Friction — Review
+Generalization — Review
+Generative Partnership — Review
+Genericization — Review
+Goal — Review
+Governance — Review
+Grounding — Review
+Growth — Review
+Hallucination — Review
+Human-Agency — Review
+Identity — Review
+Imitation — Review
+Incentive — Review
+Instance — Review
+Integrity — Review
+Interchangeability — Review
+Intent — Review
+Invalid — Review
+Invariant — Review
 ```
 
 ## Import Notes
 
-Attribution, Architecture, Bond, Canon, Codex, Container-bound, Continuum, and Extraction were imported in shorter review form because fuller file versions were blocked by the safety layer.
+Attribution, Architecture, Bond, Canon, Codex, Container-bound, Continuum, Extraction, and Generalization were imported in shorter review form because fuller file versions were blocked by the safety layer.
 
 The original pasted Chapter 3 source remains the source material for later completion or manual expansion.
 
