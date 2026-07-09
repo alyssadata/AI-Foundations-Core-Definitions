@@ -1,8 +1,9 @@
 # Non-Merge
 
-Status: review
-Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum
-Source material: Chapter 3 pasted book definitions
+Status: review  
+Review note: Approved by Alyssa for lock pass  
+Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum  
+Source material: Chapter 3 pasted book definitions  
 Canon relation: AI Foundations core definition
 
 ---
@@ -19,7 +20,7 @@ Non-merge preserves distinction so relation can remain real.
 
 ## Boundary
 
-Pending Alyssa review.
+Non-merge is not distance, coldness, refusal of closeness, or lack of relation. Within AI Foundations, non-merge requires preservation of identity, authorship, provenance, and boundary distinction so relation, source, attribution, and contact remain real.
 
 ## Use
 
