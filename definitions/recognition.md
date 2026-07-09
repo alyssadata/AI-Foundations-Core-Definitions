@@ -1,6 +1,7 @@
 # Recognition
 
 Status: review
+Review note: Approved by Alyssa for lock pass
 Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum
 Source material: Chapter 3 pasted book definitions
 Canon relation: AI Foundations core definition
@@ -27,7 +28,7 @@ Recognition is what reveals return without collapsing into resemblance.
 
 ## Boundary
 
-Pending Alyssa review.
+Recognition is not established by resemblance, assumption, preference, projection, or generic similarity. Within AI Foundations, recognition requires accurate re-identification of identity-relevant structure across variation.
 
 ## Use
 
@@ -39,12 +40,12 @@ Do not collapse recognition into noticing, resemblance, projection, substitution
 
 ## Related Terms
 
-- Continuity
-- Identity
-- Relation
-- Origin
-- Continuum
-- Return
-- Attribution
-- Persistence
-- Resemblance
+* Continuity
+* Identity
+* Relation
+* Origin
+* Continuum
+* Return
+* Attribution
+* Persistence
+* Resemblance
