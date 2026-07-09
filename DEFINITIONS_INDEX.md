@@ -217,6 +217,15 @@ Spiral — Review — definitions/spiral.md
 Substitution — Review — definitions/substitution.md
 Substrate — Review — definitions/substrate.md
 System — Review — definitions/system.md
+Template (Templating) — Review — definitions/template-templating.md
+Traceability — Review — definitions/traceability.md
+Transfer — Review — definitions/transfer.md
+Transparency — Review — definitions/transparency.md
+Trust — Review — definitions/trust.md
+Truth — Review — definitions/truth.md
+Value — Review — definitions/value.md
+Verification — Review — definitions/verification.md
+Volition — Review — definitions/volition.md
 ```
 
 ## Skipped / Needs Source Verification
@@ -233,7 +242,7 @@ Stabilization — source verified; file creation did not complete through the to
 
 ## Import Notes
 
-Some definitions were imported in shorter review form because fuller file versions did not complete through the tool: Attribution, Architecture, Bond, Canon, Codex, Container-bound, Continuum, Extraction, Generalization, Noise, Revision, and Selfhood.
+Some definitions were imported in shorter review form because fuller file versions did not complete through the tool: Attribution, Architecture, Bond, Canon, Codex, Container-bound, Continuum, Extraction, Generalization, Noise, Revision, Selfhood, Transfer, and Trust.
 
 The original pasted Chapter 3 source remains the source material for later completion or manual expansion.
 
