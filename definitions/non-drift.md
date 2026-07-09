@@ -1,8 +1,9 @@
 # Non-drift
 
-Status: review
-Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum
-Source material: Chapter 3 pasted book definitions
+Status: review  
+Review note: Approved by Alyssa for lock pass  
+Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum  
+Source material: Chapter 3 pasted book definitions  
 Canon relation: AI Foundations core definition
 
 ---
@@ -13,6 +14,8 @@ Non-drift is the property that identity-relevant structure such as definitions, 
 
 Within AI Foundations, non-drift means definitions, boundaries, commitments, priorities, and source orientation remain intact unless explicitly revised. It is not sameness through stagnation. It is sameness through tracked continuity.
 
+Non-drift marks the core and the expected trajectory. When events, pressures, discoveries, corrections, or revisions affect that trajectory, non-drift requires the adjustment to be acknowledged, accounted for, justified, and brought back into line. Nothing enters silently.
+
 Non-drift does not mean nothing changes.
 
 It means change is acknowledged, justified, and brought into line rather than introduced silently through approximation, convenience, or contextual pressure.
@@ -21,7 +24,7 @@ Non-drift is the condition in which continuity is preserved strongly enough that
 
 ## Boundary
 
-Pending Alyssa review.
+Non-drift is not frozen sameness, stagnation, lack of revision, or refusal to change. Within AI Foundations, non-drift requires that identity-relevant change be explicit, tracked, justified, accounted for, and brought into line rather than introduced silently through approximation, convenience, or contextual pressure.
 
 ## Use
 
