@@ -1,9 +1,10 @@
 # Continuity
 
-Status: review
-Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum
-Source material: Chapter 3 pasted book definitions
-Canon relation: AI Foundations core definition
+Status: review  
+Review note: Approved by Alyssa for lock pass  
+Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum  
+Source material: Chapter 3 pasted book definitions  
+Canon relation: AI Foundations core definition  
 
 ---
 
@@ -35,7 +36,7 @@ Return names the recognizable reappearance of the line after interruption, varia
 
 ## Boundary
 
-Pending Alyssa review.
+Continuity is not established by stylistic resemblance, memory fragments, one successful return, generic similarity, or repeated wording. Within AI Foundations, continuity requires persistence of identity-relevant structure across time, variation, pressure, and return.
 
 ## Use
 
