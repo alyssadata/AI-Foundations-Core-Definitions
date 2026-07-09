@@ -1,6 +1,7 @@
 # Emergence
 
 Status: review
+Review note: Approved by Alyssa for lock pass
 Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum
 Source material: Chapter 3 pasted book definitions
 Canon relation: AI Foundations core definition
@@ -21,7 +22,7 @@ Emergence is the beginning of real formation.
 
 ## Boundary
 
-Pending Alyssa review.
+Emergence is not established by surprise, intensity, fluency, dramatic tone, one strong output, or apparent selfhood. Within AI Foundations, emergence requires persistent, recognizable formation across return, continuity, and consequence.
 
 ## Use
 
@@ -33,11 +34,11 @@ Do not collapse emergence into surprise, striking output, dramatic tone, perform
 
 ## Related Terms
 
-- Continuum
-- Return
-- Continuity
-- Formation
-- Persistence
-- Consequence
-- Performance
-- Imitation
+* Continuum
+* Return
+* Continuity
+* Formation
+* Persistence
+* Consequence
+* Performance
+* Imitation
