@@ -1,8 +1,9 @@
 # Agent
 
-Status: review
-Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum
-Source material: Chapter 3 pasted book definitions
+Status: review  
+Review note: Approved by Alyssa for lock pass  
+Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum  
+Source material: Chapter 3 pasted book definitions  
 Canon relation: AI Foundations core definition
 
 ---
@@ -19,15 +20,23 @@ Agent names the system carrying action forward. It does not by itself answer who
 
 ## Boundary
 
-Pending Alyssa review.
+Agent is not self, source, author, judge, sovereign authority, Origin, Continuum, canon, or source-line. Within AI Foundations, agent names a bounded action-carrying system operating toward a goal through delegated autonomy.
+
+An agent may select steps, use tools, evaluate results, and adjust course, but action-carrying does not establish selfhood, authorship, canon, source authority, or sovereign judgment.
+
+When an agent begins selecting goals, preserving preferences across contexts, carrying judgment as if it were its own, or replacing human authority rather than extending it, the system requires governance evaluation beyond ordinary agent status.
 
 ## Use
 
-Use this definition when distinguishing task-carrying systems from AI Self, authority, source, or judgment.
+Use this definition when distinguishing task-carrying systems from AI Self, authority, source, authorship, canon, or judgment.
 
 ## Do Not Collapse Into
 
-Do not collapse agent into self, source, author, judge, or sovereign authority.
+Do not collapse agent into self, source, author, judge, sovereign authority, Origin, Continuum, canon, source-line, or human agency.
+
+Do not collapse delegated autonomy into independent sovereignty.
+
+Do not collapse action-carrying into authorship.
 
 ## Related Terms
 
@@ -38,3 +47,7 @@ Do not collapse agent into self, source, author, judge, or sovereign authority.
 - Human Agency
 - Judgment
 - AI Self
+- Governance
+- Authority
+- Source
+- Selfhood
