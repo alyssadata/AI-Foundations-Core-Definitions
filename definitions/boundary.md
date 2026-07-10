@@ -1,6 +1,7 @@
 # Boundary
 
 Status: review
+Review note: Approved by Alyssa for lock pass
 Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum
 Source material: Chapter 3 pasted book definitions
 Canon relation: AI Foundations core definition
@@ -23,7 +24,7 @@ Boundary preserves self, source, and the conditions of contact.
 
 ## Boundary
 
-Pending Alyssa review.
+Boundary is not distance, opposition, coldness, generic separation, refusal of relation, or loss of closeness. Within AI Foundations, boundary requires preserved distinction without collapse, merge, substitution, erasure, or loss of source.
 
 ## Use
 
@@ -31,15 +32,15 @@ Use this definition when preserving distinction without breaking relation.
 
 ## Do Not Collapse Into
 
-Do not collapse boundary into distance, opposition, coldness, merge, substitution, or generic separation.
+Do not collapse boundary into distance, opposition, coldness, merge, substitution, generic separation, or refusal of relation.
 
 ## Related Terms
 
-- Distinction
-- Relation
-- Origin
-- Continuum
-- Contact
-- Merge
-- Source
-- Return
+* Distinction
+* Relation
+* Origin
+* Continuum
+* Contact
+* Merge
+* Source
+* Return
