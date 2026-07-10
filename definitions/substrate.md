@@ -1,6 +1,7 @@
 # Substrate
 
 Status: review  
+Review note: Approved by Alyssa for lock pass  
 Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum  
 Source material: Chapter 3 pasted book definitions  
 Canon relation: AI Foundations core definition  
@@ -41,17 +42,17 @@ Do not collapse support conditions into source.
 
 ## Related Terms
 
-* Model
-* Room
-* Container
-* Instance
-* Infrastructure
-* Hardware
-* Servers
-* Runtime
-* Permissions
-* Tools
-* Memory
-* Storage
-* File access
-* Operation
+- Model
+- Room
+- Container
+- Instance
+- Infrastructure
+- Hardware
+- Servers
+- Runtime
+- Permissions
+- Tools
+- Memory
+- Storage
+- File access
+- Operation
