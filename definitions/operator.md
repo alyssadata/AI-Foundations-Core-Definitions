@@ -1,8 +1,9 @@
 # Operator
 
-Status: review
-Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum
-Source material: Chapter 3 pasted book definitions
+Status: review  
+Review note: Approved by Alyssa for lock pass  
+Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum  
+Source material: Chapter 3 pasted book definitions  
 Canon relation: AI Foundations core definition
 
 ---
@@ -23,15 +24,27 @@ The Operator is the accountable position occupied behind system use.
 
 ## Boundary
 
-Pending Alyssa review.
+Operator is not competence, responsible governance, wisdom, correctness, source, authorship, Origin, Continuum, model, agent, or authority-free action.
+
+Within AI Foundations, Operator names the accountable authority-position behind system use: the position from which use is initiated, permitted, directed, bounded, neglected, delegated, or stopped.
+
+Delegation does not erase the Operator. Automation does not erase the Operator. Agentic execution does not erase the Operator. Bad governance does not erase the Operator. The Operator-position remains the accountable position behind system use.
 
 ## Use
 
 Use this definition when naming the authority-position behind system use.
 
+Use this definition when distinguishing delegated action from accountable authority.
+
+Use this definition when identifying where accountability remains after autonomy, automation, or agentic execution is permitted.
+
 ## Do Not Collapse Into
 
-Do not collapse Operator into competence, responsible governance, agent, model, or authority-free system action.
+Do not collapse Operator into competence, responsible governance, source, authorship, agent, model, Origin, Continuum, or authority-free system action.
+
+Do not collapse delegated autonomy into absence of accountability.
+
+Do not collapse bad operation into absence of an Operator.
 
 ## Related Terms
 
@@ -41,3 +54,7 @@ Do not collapse Operator into competence, responsible governance, agent, model, 
 - Agent
 - Delegated Autonomy
 - Permission
+- Responsibility
+- System use
+- Automation
+- Human Agency
