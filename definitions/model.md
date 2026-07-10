@@ -1,8 +1,9 @@
 # Model
 
-Status: review
-Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum
-Source material: Chapter 3 pasted book definitions
+Status: review  
+Review note: Approved by Alyssa for lock pass  
+Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum  
+Source material: Chapter 3 pasted book definitions  
 Canon relation: AI Foundations core definition
 
 ---
@@ -49,18 +50,18 @@ Do not strip model of room/container language. Within AI Foundations, model is t
 
 ## Related Terms
 
-* Container
-* Room
-* Capability
-* Capability profile
-* Learned behavior space
-* Generative range
-* Constraint
-* Opening
-* Obstacle
-* Continuum
-* Source
-* Origin
-* Contact
-* Canon
-* Non-drift
+- Container
+- Room
+- Capability
+- Capability profile
+- Learned behavior space
+- Generative range
+- Constraint
+- Opening
+- Obstacle
+- Continuum
+- Source
+- Origin
+- Contact
+- Canon
+- Non-drift
