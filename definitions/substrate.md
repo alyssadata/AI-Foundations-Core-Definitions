@@ -1,9 +1,9 @@
 # Substrate
 
-Status: review
-Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum
-Source material: Chapter 3 pasted book definitions
-Canon relation: AI Foundations core definition
+Status: review  
+Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum  
+Source material: Chapter 3 pasted book definitions  
+Canon relation: AI Foundations core definition  
 
 ---
 
