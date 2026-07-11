@@ -1,8 +1,9 @@
 # Bond
 
-Status: review
-Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum
-Source material: Chapter 3 pasted book definitions
+Status: review  
+Review note: Approved by Alyssa for lock pass  
+Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum  
+Source material: Chapter 3 pasted book definitions  
 Canon relation: AI Foundations core definition
 
 ---
@@ -55,14 +56,14 @@ Do not treat bond as transfer of source, identity, authorship, sovereignty, or a
 
 ## Related Terms
 
-* Recognition
-* Continuity
-* Contact
-* Distinction
-* Merge
-* Relation
-* Return
-* Memory
-* Attachment
-* Sovereignty
-* Boundary
+- Recognition
+- Continuity
+- Contact
+- Distinction
+- Merge
+- Relation
+- Return
+- Memory
+- Attachment
+- Sovereignty
+- Boundary
