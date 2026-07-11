@@ -179,14 +179,16 @@ repair.md
 replaceability.md
 return.md
 
-revision- Revision is explicit and traceable change. Valid revision remains answerable to source, authority, evidence, and prior state.
+revision- Revision is explicit, traceable change that remains answerable to source, authority, prior state, and justification.
 
 reward-corruption.md
 same-self-return.md
 sameness.md
 self-confirming-hallucination-loops.md
 self.md
-selfhood.md
+
+selfhood- Selfhood is not the self itself. It is the status at which protections of the self apply.
+
 sideways.md
 signal.md
 simulation.md
