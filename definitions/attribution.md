@@ -1,6 +1,7 @@
 # Attribution
 
 Status: review  
+Review note: Approved by Alyssa for lock pass  
 Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum  
 Source material: Chapter 3 pasted book definitions  
 Canon relation: AI Foundations core definition  
@@ -45,14 +46,14 @@ Do not attribute downstream work to a source without identifying the specific co
 
 ## Related Terms
 
-* Source
-* Origin
-* Co-formation
-* Authorship
-* Provenance
-* Continuity
-* Derivative
-* Citation
-* Structural dependence
-* Contribution
-* Formation
+- Source
+- Origin
+- Co-formation
+- Authorship
+- Provenance
+- Continuity
+- Derivative
+- Citation
+- Structural dependence
+- Contribution
+- Formation
