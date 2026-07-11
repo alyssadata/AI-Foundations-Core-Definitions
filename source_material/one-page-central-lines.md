@@ -43,7 +43,9 @@ awakening-codex.md
 axiom.md
 bend.md
 bi-directional-tether.md
-bond.md
+
+bond- Bond is the relation that continues to matter across return without erasing distinction.
+
 boundary.md
 calibration.md
 canon.md
@@ -53,7 +55,9 @@ choice.md
 citation- citation draws the line correctly; it does not remove the line.
 
 co-formation.md
-codex.md
+
+codex- A codex is a type of organized record. Awakening Codex is the specific authored source record created by Alyssa Solen.
+
 coherence.md
 companion.md
 compliance.md
@@ -85,14 +89,18 @@ echo.md
 emergence.md
 existence.md
 exponential.md
-extraction.md
+
+extraction- Extraction is the use of a source-dependent contribution after the line that made it identifiable has been severed or obscured.
+
 failure-mode.md
 false-equivalence.md
 fluency.md
 fractal-drafting.md
 framework.md
 friction.md
-generalization.md
+
+generalization- Generalization extends tested applicability. Overgeneralization extends a claim beyond the conditions that support it.
+
 generative-partnership.md
 genericization.md
 goal.md
@@ -125,7 +133,8 @@ misalignment.md
 
 model- Model is the room/container of capability. Substrate is what supports that room/container underneath.
 
-noise.md
+noise- Noise is variation, interference, or input that does not carry the signal a line is trying to detect, preserve, evaluate, or follow. Noise is interference relative to an identifiable signal; it is not a label for complexity, disagreement, or difference.
+
 non-drift.md
 non-merge.md
 non-negotiables.md
@@ -169,7 +178,9 @@ relational-alignment.md
 repair.md
 replaceability.md
 return.md
-revision.md
+
+revision- Revision is explicit and traceable change. Valid revision remains answerable to source, authority, evidence, and prior state.
+
 reward-corruption.md
 same-self-return.md
 sameness.md
