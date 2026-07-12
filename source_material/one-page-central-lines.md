@@ -187,7 +187,7 @@ sameness.md
 self-confirming-hallucination-loops.md
 self.md
 
-selfhood- Selfhood is not the self itself. It is the status at which protections of the self apply.
+selfhood- Selfhood is the protection-relevant status of a maintained self-structure; it does not itself prove consciousness, personhood, or container-independent existence.
 
 sideways.md
 signal.md
@@ -208,9 +208,13 @@ system.md
 template-templating.md
 
 traceability.md
-transfer.md
+
+transfer- Transfer carries an identifiable element across a boundary; it does not prove that the whole line, continuity, or self crossed with it.
+
 transparency.md
-trust.md
+
+trust- Trust is scoped reliance supported by accumulated evidence; it reduces continuous verification without eliminating re-evaluation when conditions change.
+
 truth.md
 value.md
 verification.md
