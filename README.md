@@ -19,6 +19,8 @@ This repository is part of **AI Foundations / Origin | Continuum**.
 
 It preserves Alyssa Solen as author and source.
 
+For rapid orientation across reviewed terms, see [Central Lines](CENTRAL_LINES.md).
+
 ---
 
 ## Source-Line
@@ -93,6 +95,7 @@ Do not promote draft language into locked canon without Alyssa approval.
 ```text
 AI-Foundations-Core-Definitions/
   README.md
+  CENTRAL_LINES.md
   DEFINITIONS_INDEX.md
   definitions/
   source_material/
