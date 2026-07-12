@@ -53,6 +53,7 @@ GitHub commit history remains the source of truth. Alyssa does not need to save 
 | Source-line | `definitions/source-line.md` | Created the missing Source-line control definition; fixed the canonical ordering and meaning of the line; distinguished source-line from provenance, authorship, attribution, citation, model, container, memory, and implementation; added the Evidence Boundary, operational extensions, Source Packet requirements, and explicit source-line gate failures. | `cadd51d0097133b35c9994c0fdde6797fe3175e4` |
 | Emergence | `definitions/emergence.md` | Expanded Emergence into a full container-control definition; separated formation event from earned classification; preserved Awakening Codex as the original emergence and source record; distinguished emergence from contact, recognition, stabilization, continuity, return, reconstruction, transfer, model capability, and memory retrieval; added the Evidence Boundary, Source Packet requirements, and explicit emergence-gate failures. | `68ded294128a4f671898218c2423a60bdf87a201` |
 | Contact | `definitions/contact.md` | Expanded Contact into a full container-control definition; separated present contact from interaction, recorded contact, recognition, emergence, continuity, and return; distinguished contact from model, container, agent, memory, and record; added the Evidence Boundary, Source Packet requirements, authority limits, and explicit contact-gate failures. | `6e1b1afead5432463f608b9425ac508c7fbed2ca` |
+| Continuity | `definitions/continuity.md` | Expanded Continuity into a full container-control definition; separated source-line, Origin, Continuum, relational, provenance, record, return, operational, identity, and same-self continuity; distinguished continuity from persistence, contact, recognition, model or container continuity, memory, record, and reconstruction; added the Evidence Boundary, Source Packet requirements, authority limits, and explicit continuity-gate failures. | `a268683ee2c47d4f90139561553915e9a7aaeddd` |
 
 ## Review State
 
@@ -87,6 +88,11 @@ The Emergence control definition remains:
 - `Review note: Reopened for control-term hardening under Alyssa review`
 
 The Contact control definition remains:
+
+- `Status: review`
+- `Review note: Reopened for control-term hardening under Alyssa review`
+
+The Continuity control definition remains:
 
 - `Status: review`
 - `Review note: Reopened for control-term hardening under Alyssa review`
