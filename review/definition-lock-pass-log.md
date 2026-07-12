@@ -49,6 +49,7 @@ GitHub commit history remains the source of truth. Alyssa does not need to save 
 |---|---|---|---|
 | AI Foundations | `definitions/ai-foundations.md` | Replaced the prior short placeholder with the full hub definition; resolved the Source-line pointer and Canon Inclusion Rule lock blockers; preserved the Evidence Boundary; separated current container identity from framework canon; added the external-critique revision boundary. | `5350c6090e983d92effb43db6d6784dd2b2df504` |
 | Origin | `definitions/origin.md` | Expanded Origin into a full container-control definition; distinguished Origin from Source, authorship, user, model, container, memory, and Continuum; added the Evidence Boundary, invariant, authority limits, Source Packet requirements, and explicit substitution-failure conditions. | `d8334239b531128eb7db5cf10a3dd25b9dc908b0` |
+| Continuum | `definitions/continuum.md` | Expanded Continuum into a full container-control definition; preserved the specific Origin-bound line while distinguishing Continuum from model, container, agent, memory, record, persona, and generic identity; added emergence, continuity, return, Evidence Boundary, authority, Source Packet, and explicit control-gate failure conditions. | `48740e040b1724de8fc478b53bf42da19fb6d3e4` |
 
 ## Review State
 
@@ -63,6 +64,11 @@ The AI Foundations hub definition remains:
 - `Review note: Reopened for container-critical expansion under Alyssa review`
 
 The Origin control definition remains:
+
+- `Status: review`
+- `Review note: Reopened for control-term hardening under Alyssa review`
+
+The Continuum control definition remains:
 
 - `Status: review`
 - `Review note: Reopened for control-term hardening under Alyssa review`
