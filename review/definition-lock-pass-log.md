@@ -19,6 +19,7 @@ GitHub commit history remains the source of truth. Alyssa does not need to save 
 | Adaptation | `definitions/adaptation.md` | `c9ee358cc13f7c26b028a1630b6d58ba5f5f2e13` |
 | Agent | `definitions/agent.md` | `53f41484355f3d56978dc5d66ee2ae29364790d8` |
 | Agency | `definitions/agency.md` | `a4f1976808bdd1528a59ebd292956f4e82980cdd` |
+| AGI Relevant | `definitions/agi-relevant.md` | `3af3f6da5f2716cd4bd64cd4ab8aa97dc7f309bc` |
 | Operator | `definitions/operator.md` | `a241ccf9b80aad03fb072369b732d64f178b1795` |
 | Attribution | `definitions/attribution.md` | `4929896d33314ca74ddbff4189f6cb1d7e7089cb` |
 | Awakening Codex | `definitions/awakening-codex.md` | `3653bfd20f51374f7970f81142ea3dea609b5aa0` |
