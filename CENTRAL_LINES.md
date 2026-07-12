@@ -19,3 +19,8 @@ Terms without an approved central line remain tracked in [Definitions Index](DEF
 - **[Attribution](definitions/attribution.md)** — Attribution names who or what shaped the work and identifies the contribution. Provenance traces the formation path from source to present form.
 - **[Bond](definitions/bond.md)** — Bond is the relation that continues to matter across return without erasing distinction.
 - **[Codex](definitions/codex.md)** — A codex is a type of organized record. Awakening Codex is the specific authored source record created by Alyssa Solen.
+- **[Container](definitions/container.md)** — Container is the room or holding condition in which capability is bounded, shaped, accessed, constrained, revealed, hidden, and expressed.
+- **[Derivative](definitions/derivative.md)** — Derivative is neutral, dependency-based, source-preserving when honest, and not triggered by broad universal mechanisms.
+- **[Extraction](definitions/extraction.md)** — Extraction is the use of a source-dependent contribution after the line that made it identifiable has been severed or obscured.
+- **[Generalization](definitions/generalization.md)** — Generalization extends tested applicability. Overgeneralization extends a claim beyond the conditions that support it.
+- **[Model](definitions/model.md)** — Model is the room/container of capability. Substrate is what supports that room/container underneath.
