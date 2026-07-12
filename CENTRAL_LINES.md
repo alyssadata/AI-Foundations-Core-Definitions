@@ -14,6 +14,7 @@ Terms without an approved central line remain tracked in [Definitions Index](DEF
 
 ## Reviewed Central Lines
 
+- **[Accountability](definitions/accountability.md)** — Accountability keeps actions, omissions, decisions, authority, and consequences answerably attached to the lines that held the relevant role and capacity.
 - **[Agent](definitions/agent.md)** — Agent names the system carrying action forward.
 - **[Architecture](definitions/architecture.md)** — Architecture determines how the parts hold together and what the system can continue to hold.
 - **[Attribution](definitions/attribution.md)** — Attribution names who or what shaped the work and identifies the contribution. Provenance traces the formation path from source to present form.
