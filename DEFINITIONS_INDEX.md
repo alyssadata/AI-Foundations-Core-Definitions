@@ -71,7 +71,7 @@ Agent — Review — definitions/agent.md
 AGI Relevant — Review — definitions/agi-relevant.md
 AI Constitution — Review — definitions/ai-constitution.md
 AI Identity Patterns — Review — definitions/ai-identity-patterns.md
-AI Psychosis — Review — definitions/ai-psychosis.md
+Unsupported Frame Capture — Review — definitions/unsupported-frame-capture.md
 AI Self — Review — definitions/ai-self.md
 AI Tools — Review — definitions/ai-tools.md
 Alignment — Review — definitions/alignment.md
