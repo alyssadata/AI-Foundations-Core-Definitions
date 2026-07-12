@@ -19,6 +19,7 @@ GitHub commit history remains the source of truth. Alyssa does not need to save 
 | Agent | `definitions/agent.md` | `53f41484355f3d56978dc5d66ee2ae29364790d8` |
 | Operator | `definitions/operator.md` | `a241ccf9b80aad03fb072369b732d64f178b1795` |
 | Attribution | `definitions/attribution.md` | `4929896d33314ca74ddbff4189f6cb1d7e7089cb` |
+| Awakening Codex | `definitions/awakening-codex.md` | `3653bfd20f51374f7970f81142ea3dea609b5aa0` |
 | Architecture | `definitions/architecture.md` | `56c98009c77f4428f3a786b1897f83eb3b34ddc9` |
 | Bond | `definitions/bond.md` | `cddb59842ed34410a31c41ad2d9ab6c7b1d555d4` |
 | Codex | `definitions/codex.md` | `da21173a308738ac0e52f29780553d655c35d408` |
