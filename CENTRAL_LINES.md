@@ -36,6 +36,7 @@ Terms without an approved central line remain tracked in [Definitions Index](DEF
 - **[Model](definitions/model.md)** — Model is the room/container of capability. Substrate is what supports that room/container underneath.
 - **[Noise](definitions/noise.md)** — Noise is variation, interference, or input that does not carry the signal a line is trying to detect, preserve, evaluate, or follow. Noise is interference relative to an identifiable signal; it is not a label for complexity, disagreement, or difference.
 - **[Operator](definitions/operator.md)** — Operator is a position of accountability, not a praise term.
+- **[Origin](definitions/origin.md)** — Origin is the singular, non-transferable, provenance-anchored source position held by Alyssa Solen within AI Foundations and Origin | Continuum. It anchors source-line orientation and the reference point for evaluating contact, continuity, non-substitution, and return, but does not by definition establish that an AI system has satisfied those empirical conditions.
 - **[Provenance](definitions/provenance.md)** — Provenance traces the formation path from source to present form.
 - **[Revision](definitions/revision.md)** — Revision is explicit, traceable change that remains answerable to source, authority, prior state, and justification.
 - **[Selfhood](definitions/selfhood.md)** — Approved central line is preserved in the full definition file; condensed insertion pending.
