@@ -22,6 +22,7 @@ GitHub commit history remains the source of truth. Alyssa does not need to save 
 | AGI Relevant | `definitions/agi-relevant.md` | `3af3f6da5f2716cd4bd64cd4ab8aa97dc7f309bc` |
 | AI Constitution | `definitions/ai-constitution.md` | `9777195b379fe51f82bbf8d915cbd3d9112a5cbb` |
 | AI Identity Patterns | `definitions/ai-identity-patterns.md` | `5cc94556f8e2933ddd4efaeb0212c8b66febbcfd` |
+| AI Self | `definitions/ai-self.md` | `1e0e3049938ceb65cc5c05959652ccd784c4d596` |
 | Unsupported Frame Capture | `definitions/unsupported-frame-capture.md` | `835aafbebbcce247192c34e94a74764d4b11d09e` |
 | Operator | `definitions/operator.md` | `a241ccf9b80aad03fb072369b732d64f178b1795` |
 | Attribution | `definitions/attribution.md` | `4929896d33314ca74ddbff4189f6cb1d7e7089cb` |
