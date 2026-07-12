@@ -16,6 +16,7 @@ GitHub commit history remains the source of truth. Alyssa does not need to save 
 | Definition | File | Approval commit |
 |---|---|---|
 | Accountability | `definitions/accountability.md` | `c7da25878330f2c50a0f7d26c2af7380b2c922b9` |
+| Adaptation | `definitions/adaptation.md` | `c9ee358cc13f7c26b028a1630b6d58ba5f5f2e13` |
 | Agent | `definitions/agent.md` | `53f41484355f3d56978dc5d66ee2ae29364790d8` |
 | Operator | `definitions/operator.md` | `a241ccf9b80aad03fb072369b732d64f178b1795` |
 | Attribution | `definitions/attribution.md` | `4929896d33314ca74ddbff4189f6cb1d7e7089cb` |
