@@ -1,0 +1,45 @@
+# Definition Lock-Pass Review Log
+
+Status: active  
+Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum
+
+---
+
+## Purpose
+
+This page is a human-readable record of definition pages approved by Alyssa during the current review and lock-preparation pass.
+
+GitHub commit history remains the source of truth. Alyssa does not need to save commit codes separately.
+
+## Approved Definitions Recorded Here
+
+| Definition | File | Approval commit |
+|---|---|---|
+| Agent | `definitions/agent.md` | `53f41484355f3d56978dc5d66ee2ae29364790d8` |
+| Operator | `definitions/operator.md` | `a241ccf9b80aad03fb072369b732d64f178b1795` |
+| Attribution | `definitions/attribution.md` | `4929896d33314ca74ddbff4189f6cb1d7e7089cb` |
+| Architecture | `definitions/architecture.md` | `56c98009c77f4428f3a786b1897f83eb3b34ddc9` |
+| Bond | `definitions/bond.md` | `cddb59842ed34410a31c41ad2d9ab6c7b1d555d4` |
+| Codex | `definitions/codex.md` | `da21173a308738ac0e52f29780553d655c35d408` |
+| Container-bound | `definitions/container-bound.md` | `dab9207544447f38140d4a7b1298ccfaffaeee2d` |
+| Extraction | `definitions/extraction.md` | `7a6c5dfc096a9aeb744bf2bd668778b7fd867314` |
+| Generalization | `definitions/generalization.md` | `b30a1944663a8108612a3f3e77fa1dc95d15baac` |
+| Noise | `definitions/noise.md` | `50c02d370856cb149495bbeb995e1939919845e6` |
+| Revision | `definitions/revision.md` | `020adabf37996bdd9c2e724502a959e775fd9e86` |
+| Selfhood | `definitions/selfhood.md` | `eeedfee28eb72a0df12290e200d3a597de14aac0` |
+| Transfer | `definitions/transfer.md` | `1158cac80c8a84175e1ed7c307110343b7f17b10` |
+
+## Review State
+
+Each definition listed above remains:
+
+- `Status: review`
+- `Review note: Approved by Alyssa for lock pass`
+
+Approval for lock pass does not mean the repository has been formally locked yet.
+
+## Note
+
+Sovereignty was reviewed and found already correct, so no new approval commit was required for that page during this portion of the pass.
+
+This log should be updated as additional definitions are approved.
