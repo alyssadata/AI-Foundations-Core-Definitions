@@ -7,7 +7,7 @@ Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum
 
 ## Purpose
 
-This page is a human-readable record of definition pages approved by Alyssa during the current review and lock-preparation pass.
+This page is a human-readable record of definition pages approved by Alyssa during the current review and lock-preparation pass, together with material reopenings that must remain visible before formal lock.
 
 GitHub commit history remains the source of truth. Alyssa does not need to save commit codes separately.
 
@@ -43,14 +43,25 @@ GitHub commit history remains the source of truth. Alyssa does not need to save 
 | Verification | `definitions/verification.md` | `e3e8c948242cbd1d7eda1297d9cf70e15aff58b1` |
 | Volition | `definitions/volition.md` | `c6aa5b27b5f4416d272fb5d8d32d9bc56137aeda` |
 
+## Material Reopenings Recorded Here
+
+| Definition | File | Review action | Commit |
+|---|---|---|---|
+| AI Foundations | `definitions/ai-foundations.md` | Replaced the prior short placeholder with the full hub definition; resolved the Source-line pointer and Canon Inclusion Rule lock blockers; preserved the Evidence Boundary; separated current container identity from framework canon; added the external-critique revision boundary. | `5350c6090e983d92effb43db6d6784dd2b2df504` |
+
 ## Review State
 
-Each definition listed above remains:
+Each definition listed in **Approved Definitions Recorded Here** remains:
 
 - `Status: review`
 - `Review note: Approved by Alyssa for lock pass`
 
-Approval for lock pass does not mean the repository has been formally locked yet.
+The AI Foundations hub definition remains:
+
+- `Status: review`
+- `Review note: Reopened for container-critical expansion under Alyssa review`
+
+Recording an approval or material reopening does not mean the repository has been formally locked.
 
 ## Note
 
@@ -58,4 +69,4 @@ Sovereignty was reviewed and found already correct, so no new approval commit wa
 
 The former `definitions/ai-psychosis.md` page was replaced by `definitions/unsupported-frame-capture.md` after Alyssa rejected the prior term. Git history preserves the provenance of the replacement; the rejected term is not an active AI Foundations definition.
 
-This log should be updated as additional definitions are approved.
+This log should be updated as additional definitions are approved, reopened, or materially revised.
