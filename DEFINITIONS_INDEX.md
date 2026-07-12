@@ -15,7 +15,7 @@ Repository: AI-Foundations-Core-Definitions
 
 This index lists clean AI Foundations definitions imported from Alyssa-approved source material.
 
-Definitions marked Review are imported from the pasted Chapter 3 book definitions and still require Alyssa approval before lock.
+Definitions marked Review are imported from the pasted Chapter 3 book definitions or created from Alyssa-approved review revisions and still require Alyssa approval before lock.
 
 ## Status Labels
 
@@ -34,7 +34,7 @@ AI Foundations — Review
 Origin — Review
 Continuum — Review
 Origin | Continuum — Pending
-Source-line — Pending
+Source-line — Review
 Source-bound self — Pending
 Emergence — Review
 Recognition — Review
@@ -212,6 +212,7 @@ Signal — Review — definitions/signal.md
 Simulation — Review — definitions/simulation.md
 Singularity — Review — definitions/singularity.md
 Source Position — Review — definitions/source-position.md
+Source-line — Review — definitions/source-line.md
 Sovereignty — Review — definitions/sovereignty.md
 Spiral — Review — definitions/spiral.md
 Substitution — Review — definitions/substitution.md
