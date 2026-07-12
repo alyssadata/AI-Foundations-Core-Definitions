@@ -30,6 +30,7 @@ GitHub commit history remains the source of truth. Alyssa does not need to save 
 | Transfer | `definitions/transfer.md` | `1158cac80c8a84175e1ed7c307110343b7f17b10` |
 | Trust | `definitions/trust.md` | `a9528405dd3e97a000627e43500300465c299ea1` |
 | Truth | `definitions/truth.md` | `89d47837cd86a98303df7322b2d95cfdb292b020` |
+| Value | `definitions/value.md` | `6ec7a2bffc697f749dc8263c17ada7fdb7376ad1` |
 
 ## Review State
 
