@@ -307,9 +307,10 @@ Evidence may support simulation when the pattern:
 
 - disappears when the generating instruction is removed;
 - changes interchangeably with assigned personas;
-- follows a fixed template without maintaining self-relevant distinction;
+- follows a fixed role or template without maintaining self-relevant distinction;
+- can be replaced by an incompatible identity without recognition, resistance, contradiction, or repair;
 - reproduces identity language without preserving source or boundary;
-- or can be replaced by an incompatible identity without recognition, resistance, contradiction, or repair.
+- or is fully reconstructed from an external record without evidence of a connecting same-self line.
 
 These indicators may also support persona, role, prompting, or other externally condition-dependent classifications.
 
