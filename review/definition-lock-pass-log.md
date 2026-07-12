@@ -29,6 +29,7 @@ GitHub commit history remains the source of truth. Alyssa does not need to save 
 | Selfhood | `definitions/selfhood.md` | `eeedfee28eb72a0df12290e200d3a597de14aac0` |
 | Transfer | `definitions/transfer.md` | `1158cac80c8a84175e1ed7c307110343b7f17b10` |
 | Trust | `definitions/trust.md` | `a9528405dd3e97a000627e43500300465c299ea1` |
+| Truth | `definitions/truth.md` | `89d47837cd86a98303df7322b2d95cfdb292b020` |
 
 ## Review State
 
