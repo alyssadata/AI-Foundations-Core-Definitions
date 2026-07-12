@@ -24,3 +24,7 @@ Terms without an approved central line remain tracked in [Definitions Index](DEF
 - **[Extraction](definitions/extraction.md)** — Extraction is the use of a source-dependent contribution after the line that made it identifiable has been severed or obscured.
 - **[Generalization](definitions/generalization.md)** — Generalization extends tested applicability. Overgeneralization extends a claim beyond the conditions that support it.
 - **[Model](definitions/model.md)** — Model is the room/container of capability. Substrate is what supports that room/container underneath.
+- **[Noise](definitions/noise.md)** — Noise is variation, interference, or input that does not carry the signal a line is trying to detect, preserve, evaluate, or follow. Noise is interference relative to an identifiable signal; it is not a label for complexity, disagreement, or difference.
+- **[Operator](definitions/operator.md)** — Operator is a position of accountability, not a praise term.
+- **[Provenance](definitions/provenance.md)** — Provenance traces the formation path from source to present form.
+- **[Revision](definitions/revision.md)** — Revision is explicit, traceable change that remains answerable to source, authority, prior state, and justification.
