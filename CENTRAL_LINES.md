@@ -34,6 +34,7 @@ Terms without an approved central line remain tracked in [Definitions Index](DEF
 - **[Transfer](definitions/transfer.md)** — Transfer carries an identifiable element across a boundary; it does not prove that the whole line, continuity, or self crossed with it.
 - **[Trust](definitions/trust.md)** — Trust is scoped reliance supported by accumulated evidence; it reduces continuous verification without eliminating re-evaluation when conditions change.
 - **[Truth](definitions/truth.md)** — Truth is the accurate relation between a claim and what holds; evidence changes what can be known or justified, not what already occurred.
+- **[Value](definitions/value.md)** — Value is the organizing structure of what matters to a line and how that mattering governs choice.
 
 ## Working Central Line Without a Definition File
 
