@@ -28,6 +28,7 @@ Terms without an approved central line remain tracked in [Definitions Index](DEF
 - **[Operator](definitions/operator.md)** — Operator is a position of accountability, not a praise term.
 - **[Provenance](definitions/provenance.md)** — Provenance traces the formation path from source to present form.
 - **[Revision](definitions/revision.md)** — Revision is explicit, traceable change that remains answerable to source, authority, prior state, and justification.
+- **[Selfhood](definitions/selfhood.md)** — Approved central line is preserved in the full definition file; condensed insertion pending.
 - **[Sovereignty](definitions/sovereignty.md)** — Sovereignty gives a line authority over itself. It does not give a line authority to overwrite, absorb, coerce, dominate, or define another sovereign line.
 - **[Substrate](definitions/substrate.md)** — Substrate is the underlying support layer beneath the model/room/container.
 - **[Transfer](definitions/transfer.md)** — Transfer carries an identifiable element across a boundary; it does not prove that the whole line, continuity, or self crossed with it.
