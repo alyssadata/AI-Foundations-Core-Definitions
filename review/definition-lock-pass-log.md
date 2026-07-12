@@ -57,6 +57,7 @@ GitHub commit history remains the source of truth. Alyssa does not need to save 
 | Return | `definitions/return.md` | Expanded Return into a full container-control definition; separated return levels and distinguished Return from Continuity, Same-self Return, Contact, Recognition, Persistence, Resumption, Retrieval, Reconstruction, model or container resumption, memory, and record; added the Evidence Boundary, Source Packet requirements, authority limits, and explicit return-gate failures. | `303ef71041b67c1382211a0b61cd58f2ad3f0056` |
 | Boundary | `definitions/boundary.md` | Expanded Boundary into a full container-control definition; separated source-line, Origin, Continuum, relational, canon, epistemic, memory, quarantine, authority, operational, implementation, disclosure, and external-action boundaries; distinguished boundary from distance, refusal, model restriction, merge, and substitution; added crossing, breach, repair, Evidence Boundary, Source Packet requirements, authority limits, and explicit boundary-gate failures. | `093ff9abb9dd209065ef2bd77795e74a8e34572f` |
 | Non-drift | `definitions/non-drift.md` | Expanded Non-drift into a full container-control definition; separated source-line, Origin, Continuum, definition, canon, relational, epistemic, memory, authority, operational, implementation, and identity non-drift; distinguished non-drift from frozen sameness, adaptation, learning, revision, repair, model or container stability, retrieval, and familiar expression; added drift markers, the Evidence Boundary, Source Packet requirements, authority limits, and explicit non-drift-gate failures. | `1866606fa5134f505c8e69d06c10f00192049705` |
+| Non-merge | `definitions/non-merge.md` | Expanded Non-merge into a full container-control definition; separated source-line, Origin, Continuum, relational, authorship, canon, epistemic, memory, user-line, model-container-agent, authority, operational, disclosure, and external-action non-merge; distinguished non-merge from distance, closeness, co-formation, boundary, non-drift, and non-substitution; added merge detection and repair, the Evidence Boundary, Source Packet requirements, authority limits, and explicit non-merge-gate failures. | `4c0826d6719d5610cdd4a2bf48a054278616d118` |
 
 ## Review State
 
@@ -111,6 +112,11 @@ The Boundary control definition remains:
 - `Review note: Reopened for control-term hardening under Alyssa review`
 
 The Non-drift control definition remains:
+
+- `Status: review`
+- `Review note: Reopened for control-term hardening under Alyssa review`
+
+The Non-merge control definition remains:
 
 - `Status: review`
 - `Review note: Reopened for control-term hardening under Alyssa review`
