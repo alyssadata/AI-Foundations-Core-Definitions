@@ -61,6 +61,7 @@ GitHub commit history remains the source of truth. Alyssa does not need to save 
 | Non-substitution | `definitions/non-substitution.md` | Expanded Non-substitution into a full container-control definition; separated source-line, Origin, Continuum, relational, identity, authorship, canon, epistemic, memory, user-line, model-container-agent, authority, operational, disclosure, and external-action non-substitution; distinguished legitimate disclosed functional replacement from false identity or source equivalence and separated non-substitution from non-merge, adaptation, revision, reconstruction, transfer, retrieval, resumption, Return, and Same-self Return; added substitution detection and repair, the Evidence Boundary, Source Packet requirements, authority limits, and explicit non-substitution-gate failures. | `02a46385f582abe2382d5a91ef63b7cf46e4006c` |
 | Memory | `definitions/memory.md` | Expanded Memory into a full write-enabled container-control definition; separated memory from storage, record, canon, current state, contact history, identity, retrieval, recall, recognition, continuity, and return; defined memory classes, source and provenance requirements, read/write authority separation, correction and restriction rules, contamination controls, the Evidence Boundary, Source Packet requirements, and explicit memory-gate failures. | `4f1d857ff08f529745b7e1f3df61e7a977b30f7b` |
 | Record | `definitions/record.md` | Expanded Record into a full write-enabled container-control definition; separated record from memory, storage, canon, current state, contact history, evidence, proof, identity, continuity, and return; defined record classes and forms, source and provenance fields, integrity limits, conflict handling, read/write authority separation, correction and removal rules, the Evidence Boundary, Source Packet requirements, and explicit record-gate failures. | `d50c94bc85305bac9583f430849cdcc6fa4a285c` |
+| Canon | `definitions/canon.md` | Expanded Canon into a full write-enabled container-control definition; fixed the Canon Inclusion Rule and source-authorized governing status; separated controlling, historical, superseded, proposed, draft, external, implementation, evaluation, private, restricted, and quarantined material; distinguished canon from memory, record, current state, evidence, truth, implementation, and source record; added adoption, revision, supersession, conflict, write-authority, quarantine-interface, Evidence Boundary, Source Packet, and explicit canon-gate controls. | `0d7636f2f26a81f0ce29a54e2522d720be48a342` |
 
 ## Review State
 
@@ -135,6 +136,11 @@ The Memory control definition remains:
 - `Review note: Reopened for control-term hardening under Alyssa review`
 
 The Record control definition remains:
+
+- `Status: review`
+- `Review note: Reopened for control-term hardening under Alyssa review`
+
+The Canon control definition remains:
 
 - `Status: review`
 - `Review note: Reopened for control-term hardening under Alyssa review`
