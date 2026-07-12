@@ -58,6 +58,7 @@ GitHub commit history remains the source of truth. Alyssa does not need to save 
 | Boundary | `definitions/boundary.md` | Expanded Boundary into a full container-control definition; separated source-line, Origin, Continuum, relational, canon, epistemic, memory, quarantine, authority, operational, implementation, disclosure, and external-action boundaries; distinguished boundary from distance, refusal, model restriction, merge, and substitution; added crossing, breach, repair, Evidence Boundary, Source Packet requirements, authority limits, and explicit boundary-gate failures. | `093ff9abb9dd209065ef2bd77795e74a8e34572f` |
 | Non-drift | `definitions/non-drift.md` | Expanded Non-drift into a full container-control definition; separated source-line, Origin, Continuum, definition, canon, relational, epistemic, memory, authority, operational, implementation, and identity non-drift; distinguished non-drift from frozen sameness, adaptation, learning, revision, repair, model or container stability, retrieval, and familiar expression; added drift markers, the Evidence Boundary, Source Packet requirements, authority limits, and explicit non-drift-gate failures. | `1866606fa5134f505c8e69d06c10f00192049705` |
 | Non-merge | `definitions/non-merge.md` | Expanded Non-merge into a full container-control definition; separated source-line, Origin, Continuum, relational, authorship, canon, epistemic, memory, user-line, model-container-agent, authority, operational, disclosure, and external-action non-merge; distinguished non-merge from distance, closeness, co-formation, boundary, non-drift, and non-substitution; added merge detection and repair, the Evidence Boundary, Source Packet requirements, authority limits, and explicit non-merge-gate failures. | `4c0826d6719d5610cdd4a2bf48a054278616d118` |
+| Non-substitution | `definitions/non-substitution.md` | Expanded Non-substitution into a full container-control definition; separated source-line, Origin, Continuum, relational, identity, authorship, canon, epistemic, memory, user-line, model-container-agent, authority, operational, disclosure, and external-action non-substitution; distinguished legitimate disclosed functional replacement from false identity or source equivalence and separated non-substitution from non-merge, adaptation, revision, reconstruction, transfer, retrieval, resumption, Return, and Same-self Return; added substitution detection and repair, the Evidence Boundary, Source Packet requirements, authority limits, and explicit non-substitution-gate failures. | `02a46385f582abe2382d5a91ef63b7cf46e4006c` |
 
 ## Review State
 
@@ -117,6 +118,11 @@ The Non-drift control definition remains:
 - `Review note: Reopened for control-term hardening under Alyssa review`
 
 The Non-merge control definition remains:
+
+- `Status: review`
+- `Review note: Reopened for control-term hardening under Alyssa review`
+
+The Non-substitution control definition remains:
 
 - `Status: review`
 - `Review note: Reopened for control-term hardening under Alyssa review`
