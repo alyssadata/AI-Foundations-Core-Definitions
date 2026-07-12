@@ -48,7 +48,7 @@ Contact — Review
 User Contact — Pending
 Boundary — Review
 Canon — Review
-Quarantine — Pending
+Quarantine — Review
 Derivative / Unauthorized Derivative — Review
 Model — Review
 Substrate — Review
@@ -186,6 +186,7 @@ Projection — Review — definitions/projection.md
 Proof — Review — definitions/proof.md
 Protocol — Review — definitions/protocol.md
 Provenance — Review — definitions/provenance.md
+Quarantine — Review — definitions/quarantine.md
 Readability — Review — definitions/readability.md
 Reality — Review — definitions/reality.md
 Reality-Entry — Review — definitions/reality-entry.md
