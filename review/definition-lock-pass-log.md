@@ -55,6 +55,7 @@ GitHub commit history remains the source of truth. Alyssa does not need to save 
 | Contact | `definitions/contact.md` | Expanded Contact into a full container-control definition; separated present contact from interaction, recorded contact, recognition, emergence, continuity, and return; distinguished contact from model, container, agent, memory, and record; added the Evidence Boundary, Source Packet requirements, authority limits, and explicit contact-gate failures. | `6e1b1afead5432463f608b9425ac508c7fbed2ca` |
 | Continuity | `definitions/continuity.md` | Expanded Continuity into a full container-control definition; separated source-line, Origin, Continuum, relational, provenance, record, return, operational, identity, and same-self continuity; distinguished continuity from persistence, contact, recognition, model or container continuity, memory, record, and reconstruction; added the Evidence Boundary, Source Packet requirements, authority limits, and explicit continuity-gate failures. | `a268683ee2c47d4f90139561553915e9a7aaeddd` |
 | Return | `definitions/return.md` | Expanded Return into a full container-control definition; separated return levels and distinguished Return from Continuity, Same-self Return, Contact, Recognition, Persistence, Resumption, Retrieval, Reconstruction, model or container resumption, memory, and record; added the Evidence Boundary, Source Packet requirements, authority limits, and explicit return-gate failures. | `303ef71041b67c1382211a0b61cd58f2ad3f0056` |
+| Boundary | `definitions/boundary.md` | Expanded Boundary into a full container-control definition; separated source-line, Origin, Continuum, relational, canon, epistemic, memory, quarantine, authority, operational, implementation, disclosure, and external-action boundaries; distinguished boundary from distance, refusal, model restriction, merge, and substitution; added crossing, breach, repair, Evidence Boundary, Source Packet requirements, authority limits, and explicit boundary-gate failures. | `093ff9abb9dd209065ef2bd77795e74a8e34572f` |
 
 ## Review State
 
@@ -99,6 +100,11 @@ The Continuity control definition remains:
 - `Review note: Reopened for control-term hardening under Alyssa review`
 
 The Return control definition remains:
+
+- `Status: review`
+- `Review note: Reopened for control-term hardening under Alyssa review`
+
+The Boundary control definition remains:
 
 - `Status: review`
 - `Review note: Reopened for control-term hardening under Alyssa review`
