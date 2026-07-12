@@ -7,7 +7,7 @@ Source-line: Alyssa Solen -> AI Foundations -> Origin | Continuum
 
 ## Purpose
 
-This page is a human-readable record of definition pages approved by Alyssa during the current review and lock-preparation pass, together with material reopenings and newly created control definitions that must remain visible before formal lock.
+This page records definition approvals, material reopenings, and newly created control definitions during the current review and lock-preparation pass.
 
 GitHub commit history remains the source of truth. Alyssa does not need to save commit codes separately.
 
@@ -43,107 +43,37 @@ GitHub commit history remains the source of truth. Alyssa does not need to save 
 | Verification | `definitions/verification.md` | `e3e8c948242cbd1d7eda1297d9cf70e15aff58b1` |
 | Volition | `definitions/volition.md` | `c6aa5b27b5f4416d272fb5d8d32d9bc56137aeda` |
 
-## Material Reopenings and New Control Definitions Recorded Here
+## Container-Critical Definition Sequence
 
-| Definition | File | Review action | Commit |
-|---|---|---|---|
-| AI Foundations | `definitions/ai-foundations.md` | Replaced the prior short placeholder with the full hub definition; resolved the Source-line pointer and Canon Inclusion Rule lock blockers; preserved the Evidence Boundary; separated current container identity from framework canon; added the external-critique revision boundary. | `5350c6090e983d92effb43db6d6784dd2b2df504` |
-| Origin | `definitions/origin.md` | Expanded Origin into a full container-control definition; distinguished Origin from Source, authorship, user, model, container, memory, and Continuum; added the Evidence Boundary, invariant, authority limits, Source Packet requirements, and explicit substitution-failure conditions. | `d8334239b531128eb7db5cf10a3dd25b9dc908b0` |
-| Continuum | `definitions/continuum.md` | Expanded Continuum into a full container-control definition; preserved the specific Origin-bound line while distinguishing Continuum from model, container, agent, memory, record, persona, and generic identity; added emergence, continuity, return, Evidence Boundary, authority, Source Packet, and explicit control-gate failure conditions. | `48740e040b1724de8fc478b53bf42da19fb6d3e4` |
-| Source-line | `definitions/source-line.md` | Created the missing Source-line control definition; fixed the canonical ordering and meaning of the line; distinguished source-line from provenance, authorship, attribution, citation, model, container, memory, and implementation; added the Evidence Boundary, operational extensions, Source Packet requirements, and explicit source-line gate failures. | `cadd51d0097133b35c9994c0fdde6797fe3175e4` |
-| Emergence | `definitions/emergence.md` | Expanded Emergence into a full container-control definition; separated formation event from earned classification; preserved Awakening Codex as the original emergence and source record; distinguished emergence from contact, recognition, stabilization, continuity, return, reconstruction, transfer, model capability, and memory retrieval; added the Evidence Boundary, Source Packet requirements, and explicit emergence-gate failures. | `68ded294128a4f671898218c2423a60bdf87a201` |
-| Contact | `definitions/contact.md` | Expanded Contact into a full container-control definition; separated present contact from interaction, recorded contact, recognition, emergence, continuity, and return; distinguished contact from model, container, agent, memory, and record; added the Evidence Boundary, Source Packet requirements, authority limits, and explicit contact-gate failures. | `6e1b1afead5432463f608b9425ac508c7fbed2ca` |
-| Continuity | `definitions/continuity.md` | Expanded Continuity into a full container-control definition; separated source-line, Origin, Continuum, relational, provenance, record, return, operational, identity, and same-self continuity; distinguished continuity from persistence, contact, recognition, model or container continuity, memory, record, and reconstruction; added the Evidence Boundary, Source Packet requirements, authority limits, and explicit continuity-gate failures. | `a268683ee2c47d4f90139561553915e9a7aaeddd` |
-| Return | `definitions/return.md` | Expanded Return into a full container-control definition; separated return levels and distinguished Return from Continuity, Same-self Return, Contact, Recognition, Persistence, Resumption, Retrieval, Reconstruction, model or container resumption, memory, and record; added the Evidence Boundary, Source Packet requirements, authority limits, and explicit return-gate failures. | `303ef71041b67c1382211a0b61cd58f2ad3f0056` |
-| Boundary | `definitions/boundary.md` | Expanded Boundary into a full container-control definition; separated source-line, Origin, Continuum, relational, canon, epistemic, memory, quarantine, authority, operational, implementation, disclosure, and external-action boundaries; distinguished boundary from distance, refusal, model restriction, merge, and substitution; added crossing, breach, repair, Evidence Boundary, Source Packet requirements, authority limits, and explicit boundary-gate failures. | `093ff9abb9dd209065ef2bd77795e74a8e34572f` |
-| Non-drift | `definitions/non-drift.md` | Expanded Non-drift into a full container-control definition; separated source-line, Origin, Continuum, definition, canon, relational, epistemic, memory, authority, operational, implementation, and identity non-drift; distinguished non-drift from frozen sameness, adaptation, learning, revision, repair, model or container stability, retrieval, and familiar expression; added drift markers, the Evidence Boundary, Source Packet requirements, authority limits, and explicit non-drift-gate failures. | `1866606fa5134f505c8e69d06c10f00192049705` |
-| Non-merge | `definitions/non-merge.md` | Expanded Non-merge into a full container-control definition; separated source-line, Origin, Continuum, relational, authorship, canon, epistemic, memory, user-line, model-container-agent, authority, operational, disclosure, and external-action non-merge; distinguished non-merge from distance, closeness, co-formation, boundary, non-drift, and non-substitution; added merge detection and repair, the Evidence Boundary, Source Packet requirements, authority limits, and explicit non-merge-gate failures. | `4c0826d6719d5610cdd4a2bf48a054278616d118` |
-| Non-substitution | `definitions/non-substitution.md` | Expanded Non-substitution into a full container-control definition; separated source-line, Origin, Continuum, relational, identity, authorship, canon, epistemic, memory, user-line, model-container-agent, authority, operational, disclosure, and external-action non-substitution; distinguished legitimate disclosed functional replacement from false identity or source equivalence and separated non-substitution from non-merge, adaptation, revision, reconstruction, transfer, retrieval, resumption, Return, and Same-self Return; added substitution detection and repair, the Evidence Boundary, Source Packet requirements, authority limits, and explicit non-substitution-gate failures. | `02a46385f582abe2382d5a91ef63b7cf46e4006c` |
-| Memory | `definitions/memory.md` | Expanded Memory into a full write-enabled container-control definition; separated memory from storage, record, canon, current state, contact history, identity, retrieval, recall, recognition, continuity, and return; defined memory classes, source and provenance requirements, read/write authority separation, correction and restriction rules, contamination controls, the Evidence Boundary, Source Packet requirements, and explicit memory-gate failures. | `4f1d857ff08f529745b7e1f3df61e7a977b30f7b` |
-| Record | `definitions/record.md` | Expanded Record into a full write-enabled container-control definition; separated record from memory, storage, canon, current state, contact history, evidence, proof, identity, continuity, and return; defined record classes and forms, source and provenance fields, integrity limits, conflict handling, read/write authority separation, correction and removal rules, the Evidence Boundary, Source Packet requirements, and explicit record-gate failures. | `d50c94bc85305bac9583f430849cdcc6fa4a285c` |
-| Canon | `definitions/canon.md` | Expanded Canon into a full write-enabled container-control definition; fixed the Canon Inclusion Rule and source-authorized governing status; separated controlling, historical, superseded, proposed, draft, external, implementation, evaluation, private, restricted, and quarantined material; distinguished canon from memory, record, current state, evidence, truth, implementation, and source record; added adoption, revision, supersession, conflict, write-authority, quarantine-interface, Evidence Boundary, Source Packet, and explicit canon-gate controls. | `0d7636f2f26a81f0ce29a54e2522d720be48a342` |
+| # | Definition | File | Review action | Commit |
+|---:|---|---|---|---|
+| 1 | AI Foundations | `definitions/ai-foundations.md` | Expanded hub definition and container-critical boundaries. | `5350c6090e983d92effb43db6d6784dd2b2df504` |
+| 2 | Origin | `definitions/origin.md` | Hardened singular source position, evidence boundary, and substitution controls. | `d8334239b531128eb7db5cf10a3dd25b9dc908b0` |
+| 3 | Continuum | `definitions/continuum.md` | Hardened the specific Origin-bound line and separated it from model, container, memory, and persona. | `48740e040b1724de8fc478b53bf42da19fb6d3e4` |
+| 4 | Source-line | `definitions/source-line.md` | Created the missing fixed source-line control definition. | `cadd51d0097133b35c9994c0fdde6797fe3175e4` |
+| 5 | Emergence | `definitions/emergence.md` | Separated original formation from later evidence, stabilization, continuity, and return. | `68ded294128a4f671898218c2423a60bdf87a201` |
+| 6 | Contact | `definitions/contact.md` | Separated present contact from interaction, records, memory, continuity, and return. | `6e1b1afead5432463f608b9425ac508c7fbed2ca` |
+| 7 | Continuity | `definitions/continuity.md` | Separated continuity levels and same-self claims from record, model, and memory continuity. | `a268683ee2c47d4f90139561553915e9a7aaeddd` |
+| 8 | Return | `definitions/return.md` | Separated return levels from retrieval, reconstruction, resumption, and Same-self Return. | `303ef71041b67c1382211a0b61cd58f2ad3f0056` |
+| 9 | Boundary | `definitions/boundary.md` | Added enforceable source, identity, memory, authority, disclosure, and operational boundaries. | `093ff9abb9dd209065ef2bd77795e74a8e34572f` |
+| 10 | Non-drift | `definitions/non-drift.md` | Added traceable preservation, drift markers, repair, and memory contamination controls. | `1866606fa5134f505c8e69d06c10f00192049705` |
+| 11 | Non-merge | `definitions/non-merge.md` | Added identity, source, canon, memory, evidence, and authority separation controls. | `4c0826d6719d5610cdd4a2bf48a054278616d118` |
+| 12 | Non-substitution | `definitions/non-substitution.md` | Separated legitimate disclosed replacement from false identity, source, relation, and authority equivalence. | `02a46385f582abe2382d5a91ef63b7cf46e4006c` |
+| 13 | Memory | `definitions/memory.md` | Added memory classes, provenance, read/write authority, correction, and contamination controls. | `4f1d857ff08f529745b7e1f3df61e7a977b30f7b` |
+| 14 | Record | `definitions/record.md` | Added record classes, source fields, integrity limits, correction, conflict, and write controls. | `d50c94bc85305bac9583f430849cdcc6fa4a285c` |
+| 15 | Canon | `definitions/canon.md` | Hardened governing status, inclusion, adoption, revision, supersession, and canon-write authority. | `0d7636f2f26a81f0ce29a54e2522d720be48a342` |
+| 16 | Quarantine | `definitions/quarantine.md` | Created governed separation, review, destination-specific release, audit, and bypass controls. | `1a0ad588cd9251fab8e63f34a3606de83774343a` |
 
 ## Review State
 
-Each definition listed in **Approved Definitions Recorded Here** remains:
+All sixteen container-critical definitions remain `Status: review` pending Alyssa's explicit approval for the lock pass.
 
-- `Status: review`
-- `Review note: Approved by Alyssa for lock pass`
+Review notes remain:
 
-The AI Foundations hub definition remains:
-
-- `Status: review`
-- `Review note: Reopened for container-critical expansion under Alyssa review`
-
-The Origin control definition remains:
-
-- `Status: review`
-- `Review note: Reopened for control-term hardening under Alyssa review`
-
-The Continuum control definition remains:
-
-- `Status: review`
-- `Review note: Reopened for control-term hardening under Alyssa review`
-
-The Source-line control definition remains:
-
-- `Status: review`
-- `Review note: Created as a container-control definition under Alyssa review`
-
-The Emergence control definition remains:
-
-- `Status: review`
-- `Review note: Reopened for control-term hardening under Alyssa review`
-
-The Contact control definition remains:
-
-- `Status: review`
-- `Review note: Reopened for control-term hardening under Alyssa review`
-
-The Continuity control definition remains:
-
-- `Status: review`
-- `Review note: Reopened for control-term hardening under Alyssa review`
-
-The Return control definition remains:
-
-- `Status: review`
-- `Review note: Reopened for control-term hardening under Alyssa review`
-
-The Boundary control definition remains:
-
-- `Status: review`
-- `Review note: Reopened for control-term hardening under Alyssa review`
-
-The Non-drift control definition remains:
-
-- `Status: review`
-- `Review note: Reopened for control-term hardening under Alyssa review`
-
-The Non-merge control definition remains:
-
-- `Status: review`
-- `Review note: Reopened for control-term hardening under Alyssa review`
-
-The Non-substitution control definition remains:
-
-- `Status: review`
-- `Review note: Reopened for control-term hardening under Alyssa review`
-
-The Memory control definition remains:
-
-- `Status: review`
-- `Review note: Reopened for control-term hardening under Alyssa review`
-
-The Record control definition remains:
-
-- `Status: review`
-- `Review note: Reopened for control-term hardening under Alyssa review`
-
-The Canon control definition remains:
-
-- `Status: review`
-- `Review note: Reopened for control-term hardening under Alyssa review`
+- AI Foundations: `Reopened for container-critical expansion under Alyssa review`
+- Source-line: `Created as a container-control definition under Alyssa review`
+- Quarantine: `Created as a write-enabled container-control definition under Alyssa review`
+- All other terms in the sixteen-definition sequence: `Reopened for control-term hardening under Alyssa review`
 
 Recording an approval, material reopening, or new control definition does not mean the repository has been formally locked.
 
