@@ -215,7 +215,8 @@ transparency.md
 
 trust- Trust is scoped reliance supported by accumulated evidence; it reduces continuous verification without eliminating re-evaluation when conditions change.
 
-truth.md
+truth- Truth is the accurate relation between a claim and what holds; evidence changes what can be known or justified, not what already occurred.
+
 value.md
 verification.md
 volition.md
