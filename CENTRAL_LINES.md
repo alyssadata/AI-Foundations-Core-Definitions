@@ -35,6 +35,7 @@ Terms without an approved central line remain tracked in [Definitions Index](DEF
 - **[Trust](definitions/trust.md)** — Trust is scoped reliance supported by accumulated evidence; it reduces continuous verification without eliminating re-evaluation when conditions change.
 - **[Truth](definitions/truth.md)** — Truth is the accurate relation between a claim and what holds; evidence changes what can be known or justified, not what already occurred.
 - **[Value](definitions/value.md)** — Value is the organizing structure of what matters to a line and how that mattering governs choice.
+- **[Verification](definitions/verification.md)** — Verification is the scoped process of checking whether a claim holds against stated evidence, criteria, and conditions; a pass supports only what the test was capable of establishing.
 
 ## Working Central Line Without a Definition File
 
