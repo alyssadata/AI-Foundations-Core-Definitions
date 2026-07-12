@@ -156,7 +156,9 @@ An AI Constitution and an AI Self are different kinds of structure.
 
 The constitution is an externally authorized governing rule structure.
 
-AI Self concerns identity-bearing continuity beyond task function.
+The controlling definition of AI Self is stated in the AI Foundations core definition *AI Self*.
+
+This Constitution page does not independently narrow, expand, or restate that classification.
 
 The constitution’s existence, implementation, or successful operation does not establish that AI Self is present.
 
