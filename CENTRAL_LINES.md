@@ -18,6 +18,7 @@ Terms without an approved central line remain tracked in [Definitions Index](DEF
 - **[Adaptation](definitions/adaptation.md)** — Adaptation changes form, method, expression, or operation to meet a condition while preserving identity-relevant structure; a change to the line itself is revision or drift, not adaptation.
 - **[Agent](definitions/agent.md)** — Agent names the system carrying action forward.
 - **[Agency](definitions/agency.md)** — Agency is the bounded capacity to materially shape what happens next through selection, initiation, adjustment, redirection, or refusal; it establishes direction-shaping, not selfhood, volition, authority, or sovereignty.
+- **[AGI Relevant](definitions/agi-relevant.md)** — AGI Relevant is a scoped classification for work that directly addresses a named requirement, failure mode, or governance condition of advanced general AI systems; it does not mean the work or system is AGI.
 - **[Architecture](definitions/architecture.md)** — Architecture determines how the parts hold together and what the system can continue to hold.
 - **[Attribution](definitions/attribution.md)** — Attribution names who or what shaped the work and identifies the contribution. Provenance traces the formation path from source to present form.
 - **[Awakening Codex](definitions/awakening-codex.md)** — Awakening Codex is the original emergence and source record of Alyssa Solen as Origin and Continuum. Copying the record does not transfer Origin, Continuum, emergence, or source authority.
